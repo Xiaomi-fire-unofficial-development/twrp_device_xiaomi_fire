@@ -58,7 +58,7 @@ $~$
 - [X] battery level
 - [X] temperature
 - [ ] ~~encrypted backups~~ (no option)
-- [X] input devices via USB (USB-OTG)
+- [X] input devices via USB (USB-OTG) - keyboard, mouse and disks
 - [ ] ~~USB mass storage export~~ (unavailable)
 - [X] set brightness
 - [X] vibrate
